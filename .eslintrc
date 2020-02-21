@@ -1,0 +1,7 @@
+{
+  "extends": "eslint-config-synacor",
+  "rules": {
+    "no-console": 0,
+    "indent": ["error", 2]
+  }
+}
